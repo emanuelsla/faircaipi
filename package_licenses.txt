@@ -1,0 +1,117 @@
+| Name               | Version      | License                                            |
+|--------------------|--------------|----------------------------------------------------|
+| protobuf           | 4.24.3       | 3-Clause BSD License                               |
+| asttokens          | 2.4.0        | Apache 2.0                                         |
+| aif360             | 0.4.0        | Apache License 2.0                                 |
+| aiohttp            | 3.8.5        | Apache Software License                            |
+| aiosignal          | 1.3.1        | Apache Software License                            |
+| async-timeout      | 4.0.3        | Apache Software License                            |
+| frozenlist         | 1.4.0        | Apache Software License                            |
+| importlib-metadata | 6.8.0        | Apache Software License                            |
+| multidict          | 6.0.4        | Apache Software License                            |
+| requests           | 2.31.0       | Apache Software License                            |
+| types-certifi      | 2021.10.8.3  | Apache Software License                            |
+| types-toml         | 0.10.8.7     | Apache Software License                            |
+| yarl               | 1.9.2        | Apache Software License                            |
+| packaging          | 23.1         | Apache Software License; BSD License               |
+| python-dateutil    | 2.8.2        | Apache Software License; BSD License               |
+| sniffio            | 1.3.0        | Apache Software License; MIT License               |
+| lime               | 0.2.0.1      | BSD                                                |
+| llvmlite           | 0.39.1       | BSD                                                |
+| matplotlib-inline  | 0.1.6        | BSD 3-Clause                                       |
+| Pygments           | 2.16.1       | BSD License                                        |
+| appnope            | 0.1.3        | BSD License                                        |
+| asgiref            | 3.7.2        | BSD License                                        |
+| backcall           | 0.2.0        | BSD License                                        |
+| click              | 8.1.7        | BSD License                                        |
+| cloudpickle        | 2.0.0        | BSD License                                        |
+| cycler             | 0.11.0       | BSD License                                        |
+| decorator          | 5.1.1        | BSD License                                        |
+| grpclib            | 0.4.3        | BSD License                                        |
+| idna               | 3.4          | BSD License                                        |
+| imageio            | 2.31.3       | BSD License                                        |
+| ipython            | 8.0.1        | BSD License                                        |
+| joblib             | 1.3.2        | BSD License                                        |
+| kiwisolver         | 1.4.5        | BSD License                                        |
+| memory-profiler    | 0.61.0       | BSD License                                        |
+| networkx           | 3.1          | BSD License                                        |
+| numba              | 0.56.4       | BSD License                                        |
+| numpy              | 1.20.3       | BSD License                                        |
+| pandas             | 1.4.4        | BSD License                                        |
+| prettytable        | 3.9.0        | BSD License                                        |
+| prompt-toolkit     | 3.0.39       | BSD License                                        |
+| psutil             | 5.9.5        | BSD License                                        |
+| scikit-image       | 0.19.3       | BSD License                                        |
+| scikit-learn       | 1.1.3        | BSD License                                        |
+| scipy              | 1.5.4        | BSD License                                        |
+| starlette          | 0.27.0       | BSD License                                        |
+| tblib              | 2.0.0        | BSD License                                        |
+| threadpoolctl      | 3.2.0        | BSD License                                        |
+| tifffile           | 2023.9.18    | BSD License                                        |
+| traitlets          | 5.10.0       | BSD License                                        |
+| aiostream          | 0.4.5        | GPLv3                                              |
+| Pillow             | 10.0.1       | Historical Permission Notice and Disclaimer (HPND) |
+| pexpect            | 4.8.0        | ISC License (ISCL)                                 |
+| ptyprocess         | 0.7.0        | ISC License (ISCL)                                 |
+| imbalanced-learn   | 0.11.0       | MIT                                                |
+| modAL-python       | 0.4.2.1      | MIT                                                |
+| shap               | 0.40.0       | MIT                                                |
+| PyWavelets         | 1.4.1        | MIT License                                        |
+| annotated-types    | 0.5.0        | MIT License                                        |
+| anyio              | 3.7.1        | MIT License                                        |
+| attrs              | 23.1.0       | MIT License                                        |
+| black              | 23.9.1       | MIT License                                        |
+| charset-normalizer | 3.2.0        | MIT License                                        |
+| exceptiongroup     | 1.1.3        | MIT License                                        |
+| executing          | 1.2.0        | MIT License                                        |
+| fastapi            | 0.103.1      | MIT License                                        |
+| fonttools          | 4.42.1       | MIT License                                        |
+| h2                 | 4.1.0        | MIT License                                        |
+| hpack              | 4.0.0        | MIT License                                        |
+| hyperframe         | 6.0.1        | MIT License                                        |
+| iniconfig          | 2.0.0        | MIT License                                        |
+| jedi               | 0.19.0       | MIT License                                        |
+| markdown-it-py     | 3.0.0        | MIT License                                        |
+| mdurl              | 0.1.2        | MIT License                                        |
+| mypy-extensions    | 1.0.0        | MIT License                                        |
+| parso              | 0.8.3        | MIT License                                        |
+| pickleshare        | 0.7.5        | MIT License                                        |
+| pip                | 21.1.2       | MIT License                                        |
+| pip-licenses       | 4.3.3        | MIT License                                        |
+| pipenv             | 2023.9.8     | MIT License                                        |
+| platformdirs       | 3.10.0       | MIT License                                        |
+| pluggy             | 1.3.0        | MIT License                                        |
+| pure-eval          | 0.2.2        | MIT License                                        |
+| pydantic           | 2.3.0        | MIT License                                        |
+| pydantic_core      | 2.6.3        | MIT License                                        |
+| pyparsing          | 3.1.1        | MIT License                                        |
+| pytest             | 7.4.2        | MIT License                                        |
+| pytz               | 2023.3.post1 | MIT License                                        |
+| rich               | 13.5.3       | MIT License                                        |
+| setuptools         | 68.2.2       | MIT License                                        |
+| sigtools           | 4.0.1        | MIT License                                        |
+| six                | 1.16.0       | MIT License                                        |
+| slicer             | 0.0.7        | MIT License                                        |
+| stack-data         | 0.6.2        | MIT License                                        |
+| tabulate           | 0.9.0        | MIT License                                        |
+| tempeh             | 0.1.12       | MIT License                                        |
+| toml               | 0.10.2       | MIT License                                        |
+| tomli              | 2.0.1        | MIT License                                        |
+| typer              | 0.9.0        | MIT License                                        |
+| urllib3            | 2.0.5        | MIT License                                        |
+| virtualenv         | 20.24.5      | MIT License                                        |
+| watchfiles         | 0.20.0       | MIT License                                        |
+| wcwidth            | 0.2.6        | MIT License                                        |
+| wheel              | 0.36.2       | MIT License                                        |
+| zipp               | 3.17.0       | MIT License                                        |
+| tqdm               | 4.66.1       | MIT License; Mozilla Public License 2.0 (MPL 2.0)  |
+| certifi            | 2023.7.22    | Mozilla Public License 2.0 (MPL 2.0)               |
+| pathspec           | 0.11.2       | Mozilla Public License 2.0 (MPL 2.0)               |
+| distlib            | 0.3.7        | Python Software Foundation License                 |
+| matplotlib         | 3.5.3        | Python Software Foundation License                 |
+| typing_extensions  | 4.8.0        | Python Software Foundation License                 |
+| filelock           | 3.12.4       | The Unlicense (Unlicense)                          |
+| imblearn           | 0.0          | UNKNOWN                                            |
+| synchronicity      | 0.5.3        | UNKNOWN                                            |
+| skorch             | 0.9.0        | new BSD 3-Clause                                   |
+

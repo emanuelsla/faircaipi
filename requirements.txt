@@ -1,5 +1,5 @@
 aif360~=0.4.0
-modAL~=0.4.1
+modAL-python~=0.4.2.1
 pandas~=1.4.1
 ipython~=8.0.1
 shap~=0.40.0
